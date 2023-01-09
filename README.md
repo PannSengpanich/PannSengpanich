@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @PannSengpanich
+- 👋 Hi, I’m @Pann Sengpanich
 - 👀 I’m interested in Music, Science  and Art 
-- 🌱 I’m currently learning AERO
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me IG: @songpraslender
+- 🌱 I’m currently learning ICE
+- 📫 How to reach me IG: @pannspn
+                     Mobile Phone: 091 803 7803
+                     Gmail: 6338136621@student.chula.ac.th
 
 <!---
 PannSengpanich/PannSengpanich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
