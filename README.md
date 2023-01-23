@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @Pann Sengpanich
-- 👀 I’m interested in Music, Science  and Art 
-- 🌱 I’m currently learning ICE
-- 📫 How to reach me IG: @pannspn
-                     Mobile Phone: 091 803 7803
-                     Gmail: 6338136621@student.chula.ac.th
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 
-<!---
-PannSengpanich/PannSengpanich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="badges" align="center">
+  <a href="https://www.freecodecamp.org/PannSengpanich">
+    <img src="https://img.shields.io/badge/freeCodeCamp-black?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp Badge"/>
+  </a>
+</div>
+
+<div id="counter" align = "center">
+  <img src="https://komarev.com/ghpvc/?username=PannSengpanich&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1 align ="center">
+  heyThere!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
