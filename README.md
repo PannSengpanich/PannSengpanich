@@ -20,7 +20,7 @@
 ### :man_technologist: About Me :
 I am a student in Chulalongkorn University from Thailand.
 
-- :telescope: I'm currently studying in International School of Engineering. In my 1st and 2nd year, I was studying in AERO (Aerospace Engineering) major where I was studying about aircraft, airplane and aerospace. In my 3rd year, I then decided to change to ICE (Information and Communication Engineering) major which is the major that I'm currently studying in (with 2nd year course).
+- :telescope: I'm currently studying in International School of Engineering. In my 1st and 2nd year, I was studying in AERO (Aerospace Engineering) major where I was studying about aircraft, airplane and aerospace. In my 3rd year, I then decided to change to ICE (Information and Communication Engineering) major which is the major that I'm currently studying in right now (with 2nd year course).
 
 - :zap: In my free time, I love to practicing and expand my coding language, playing musical instrument and hanging out with my friends.
 
