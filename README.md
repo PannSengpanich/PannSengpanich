@@ -14,9 +14,9 @@
 ### :man_technologist: About Me :
 I am a student in Chulalongkorn University from Thailand.
 
-- :telescope: I'm currently studying in International School of Engineering. In my 1st and 2nd year, I was studying in AERO (Aerospace Engineering) major where I was studying about aircraft, airplane and aerospace. In my 3rd year, I then decided to change to ICE (Information and Communication Engineering) major which is the major that I'm currently studying in right now (with 2nd year course).
+- :telescope: I'm currently studying at the International School of Engineering. During my first two years, I pursued a major in Aerospace Engineering, where I learned about aircraft and aerospace technologies. However, in my third year, I switched to Information and Communication Engineering (ICE) and I'm currently studying 2nd year courses.
 
-- :zap: In my free time, I love to practicing and expand my coding language, playing musical instrument and hanging out with my friends. Lately, I have been immensly focusing on improving my coding skills by practicing in freeCodeCamp, OdinProjects, Coursera and more.
+- :zap: In my free time, I enjoy expanding my coding skills and playing musical instruments. I've been practicing coding through various platforms such as freeCodeCamp, OdinProjects, and Coursera, with a strong focus on improving my abilities. I also love to spend time with my friends.
 
 ### :hammer_and_wrench: MY current languages and tools :
 
@@ -33,3 +33,36 @@ I am a student in Chulalongkorn University from Thailand.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PannSengpanich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/pann-sengpanich-978bb1262/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Pann Sengpanich-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:sengpanichpann@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:sengpanichpann@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+  
+<br>
+  
+ <li>
+<a href="https://pann-resume.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/My Website-%2300acee.svg?color=black&style=for-the-badge&logo=""&logoColor=white" alt=website style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+	
+</ul>
+</div>
