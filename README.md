@@ -14,7 +14,7 @@
 ### :man_technologist: About Me :
 I am a student in Chulalongkorn University from Thailand.
 
-- :telescope: I'm currently studying at the International School of Engineering. During my first two years, I pursued a major in Aerospace Engineering, where I learned about aircraft and aerospace technologies. However, in my third year, I switched to Information and Communication Engineering (ICE) and I'm currently studying 2nd year courses.
+- :telescope: I'm currently studying at the International School of Engineering. During my first two years, I pursued a major in Aerospace Engineering, where I learned about aircraft and aerospace technologies. However, in my third year, I switched to Information and Communication Engineering (ICE).
 
 - :zap: In my free time, I enjoy expanding my coding skills and playing musical instruments. I've been practicing coding through various platforms such as freeCodeCamp, OdinProjects, and Coursera, with a strong focus on improving my abilities. I also love to spend time with my friends.
 
@@ -57,7 +57,7 @@ I am a student in Chulalongkorn University from Thailand.
 <br>
   
  <li>
-<a href="https://pann-resume.vercel.app/" target="_blank">
+<a href="https://linktr.ee/pannsengpanich" target="_blank">
 <img src="https://img.shields.io/badge/My Website-%2300acee.svg?color=black&style=for-the-badge&logo=""&logoColor=white" alt=website style="margin-bottom: 5px;"/>
 </a>
 </li>
